@@ -168,3 +168,18 @@ h4 {
 .rating .fa {
     color: var(--primary-color);
 }
+
+/* ------- offer ------- */
+.offer {
+    background: radial-gradient(#fff, #ffd6d6);
+    margin-top: 80px;
+    padding: 30px 0;
+}
+
+.col-2 .offer-img {
+    padding: 60px;
+}
+
+small {
+    color: #555;
+}
